@@ -1,16 +1,14 @@
 ## Hi there 👋
+どこにでもいる初心者コスプレイヤーです。
 
-<!--
-**kbc18a11/kbc18a11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://twitter.com/abumai09
 
-Here are some ideas to get you started:
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kbc18a11&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kbc18a11&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kbc18a11&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kbc18a11&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kbc18a11&theme=gruvbox&utcOffset=9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=kbc18a11&theme=gruvbox)
