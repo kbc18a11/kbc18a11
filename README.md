@@ -5,10 +5,10 @@ https://twitter.com/abumai09
 
 # Skill
 - Languages: TypeScript, Python, 日本語
-- Infrastructure: AWS(lambda , APIGateway, Cognito, CloudFormation, CodeDeploy), RHEL, OCI
+- Infrastructure: AWS(lambda , APIGateway, Cognito, CloudFormation, CodeDeploy, CDK), RHEL, OCI
 
 # Qualifications held
-- AWS SAA
+- AWS SAP
 - 基本情報技術者試験
 - JSTQB Foundation Level
 - 全商簿記 3級
