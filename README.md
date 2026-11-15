@@ -14,7 +14,7 @@ https://twitter.com/abumai09
 - 全商簿記 3級
 
 # Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kbc18a11&theme=gruvbox)
+![trophy](https://github-trophies.vercel.app/?username=kbc18a11&theme=gruvbox)
 
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kbc18a11&theme=gruvbox)
